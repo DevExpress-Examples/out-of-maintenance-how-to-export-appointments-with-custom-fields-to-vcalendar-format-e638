@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomObject.cs](./CS/VCalendarCustomFields/CustomObject.cs) (VB: [CustomObject.vb](./VB/VCalendarCustomFields/CustomObject.vb))
+* [Form1.cs](./CS/VCalendarCustomFields/Form1.cs) (VB: [Form1.vb](./VB/VCalendarCustomFields/Form1.vb))
+* [Program.cs](./CS/VCalendarCustomFields/Program.cs) (VB: [Program.vb](./VB/VCalendarCustomFields/Program.vb))
+<!-- default file list end -->
 # How to export appointments with custom fields to vCalendar format
 
 
